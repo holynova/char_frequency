@@ -1,7 +1,16 @@
+
+
 git push 
 git commit -m "a new test file was added"
-git status
-git add 2016-02-19added.txt 
+
+
+
+add  some thing new--------------
+
+
+hello world
+
+ 
 cd char_frequency/
 ls
 git branch
